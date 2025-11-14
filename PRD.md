@@ -5,7 +5,7 @@ A behavioral system that integrates spending, biometric, and mood data to help u
 ---
 
 ## 1. Overview
-The Soul-Money Regulator is an AI-driven behavioral application that unifies financial behavior, biometric signals, and emotional patterns. The system identifies correlations, predicts dysregulation, and provides personalized interventions to support emotional and financial stability.
+The Soul-Money CoPilot is an AI-driven behavioral application that unifies financial behavior, biometric signals, and emotional patterns. The system identifies correlations, predicts dysregulation, and provides personalized interventions to support emotional and financial stability.
 
 ---
 
